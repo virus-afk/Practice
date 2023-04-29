@@ -1,0 +1,11 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "My e-commerce website",
+  "main": "index.html",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  },
+  "devDependencies": {}
+}
+
